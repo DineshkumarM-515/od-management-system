@@ -1,6 +1,6 @@
-# 🎓 Online Duty (OD) Management System
+# 🎓 On Duty (OD) Management System
 
-A full-stack web application designed to streamline the **Online Duty (OD) approval process** in educational institutions. The system eliminates manual paperwork and provides a structured workflow for students, Proctors, Academic Coordinators (AC), and Heads of Department (HoD) to manage OD requests efficiently.
+A full-stack web application designed to streamline the **On Duty (OD) approval process** in educational institutions. The system eliminates manual paperwork and provides a structured workflow for students, Proctors, Academic Coordinators (AC), and Heads of Department (HoD) to manage OD requests efficiently.
 
 ## 🚀 Overview
 
