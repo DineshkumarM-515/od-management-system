@@ -1,4 +1,4 @@
-const API_URL = "http://localhost:8080/od";
+const API_URL = "/od";
 
 if(!localStorage.getItem("role")) {
 
@@ -74,15 +74,8 @@ async function loadRequests() {
                 </td>
     
                 <td>
-    
-                    <td>
-
-                        ${getActionButtons(request)}
-
-                    </td>
-    
+                    ${getActionButtons(request)}
                 </td>
-    
             </tr>
         `;
     });
