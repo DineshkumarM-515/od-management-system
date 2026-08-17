@@ -60,7 +60,7 @@ async function login() {
         document.getElementById("password").value;
 
     const response = await fetch(
-        `http://localhost:8080/auth/login?email=${email}&password=${password}`,
+        `/auth/login?email=${encodeURIComponent(email)}&password=${encodeURIComponent(password)}`,
         {
             method: "POST"
         }
